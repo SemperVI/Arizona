@@ -1,8 +1,6 @@
 # Arizona
 
 
-Welcome to the Arizona wiki!
-
 The purpose of Arizona is to optimize .Net enterprise business computing initiatives. Specifically, Arizona is designed to spring board your approach to defining a service oriented architecture.
 
 When an enterprise architecture is successfully defined, implemented and followed - a simple set of benefits will be delivered - better, faster and cheaper
